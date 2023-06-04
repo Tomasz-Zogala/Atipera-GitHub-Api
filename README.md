@@ -18,7 +18,7 @@ Replace `{username}` with the actual GitHub username for which you want to retri
 
 The API supports the following error responses:
 
-### - User Not Found
+### User Not Found
 
 Status code: 404
 
@@ -30,7 +30,8 @@ Status code: 404
 ```
 
 This response indicates that the requested user does not exist on GitHub.
-### - Unsupported Format
+
+### Unsupported Format
 
 Status code: 406
 
