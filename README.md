@@ -1,6 +1,6 @@
 # Atipera GitHub API
 
-Welcome to the Atipera GitHub API. This API provides a convenient and efficient way to retrieve essential information about GitHub repositories, including repository names, ownership, and details about each branch's last commit.
+Welcome to the Atipera GitHub API. This API provides a convenient and efficient way to retrieve essential information about GitHub repositories, that are not forked, including repository names, ownership, and details about each branch's last commit.
 
 ## Endpoints
 
