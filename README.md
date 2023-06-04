@@ -37,8 +37,8 @@ Status code: 406
 
 ```
 {
-  "status":406,
-  "message":"Requested content type is not supported"
+  "status": 406,
+  "message": "Requested content type is not supported"
 }
 ```
 
